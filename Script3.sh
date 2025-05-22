@@ -2,7 +2,6 @@
 #this is to check if the shell scripts picks up env variables
 echo "This is error script"   # sample script
 echo "This is my system path $PATH"
-echo " this is abheek srivatsva"
 
 #Set a JDK_HOME env variable
 export JDK_HOME=/bin/jdk
